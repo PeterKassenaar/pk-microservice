@@ -1,0 +1,18 @@
+{
+  "name": "api-request-app",
+  "version": "1.0.0",
+  "description": "a simple app requesting the distance between two ZIP-codes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
